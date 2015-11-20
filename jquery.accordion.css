@@ -24,18 +24,6 @@ ul li{
 .accordion ul .item1{
 	background-image: url(./img/pic1.jpg);
 }
-.accordion ul .item2{
-	background-image: url(./img/pic2.jpg);
-}
-.accordion ul .item3{
-	background-image: url(./img/pic3.jpg);
-}
-.accordion ul .item4{
-	background-image: url(./img/pic4.jpg);
-}
-.accordion ul .item5{
-	background-image: url(./img/pic5.jpg);
-}
 .accordion ul li a{
 	display: block;
 	width: 140px;
